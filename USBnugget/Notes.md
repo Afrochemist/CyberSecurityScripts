@@ -15,9 +15,21 @@ Here are some regarding regarding the duckyscript syntax. Duckyscript is a scrip
 
 ## Typing & Text
 
+ENTER
+
+SPACE
+
+TAB
+
+ESCAPE 
+
 ## Timing
-- DELAY
+- DELAY (in m)
 
 ## Navigation Keys
+
+UPARROW, DOWNARROW, LEFTARROW, RIGHTARROW
+
+PAGEUP, PAGEDOWN
 
 ## Function Keyys
