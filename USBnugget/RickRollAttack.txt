@@ -1,0 +1,11 @@
+
+REM The rickroll attack
+REM Chrome-specific - requires 'chrome' in PATH
+
+DELAY 500
+GUI r
+DELAY 300
+STRING chrome --new-window "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+ENTER
+DELAY 4500
+STRING k
